@@ -16,6 +16,6 @@ This is a simple To-Do List web application built using HTML, CSS, and JavaScrip
 To use this To-Do List application, simply clone the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/your-username/TO_DO_LISTCODE.git
 cd todo-list
 open index.html
